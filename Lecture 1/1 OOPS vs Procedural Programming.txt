@@ -1,0 +1,10 @@
+PROCEDURAL PROGRAMMING: derived from structural programming 
+-> program is divided into small parts called functions.
+-> follow top to bottom approach
+-> no proper way to hide data and is less secure.
+-> adding new data is not easy. Ex: C,Pascal, Basic etc.
+
+Object-Oriented Programming (OOPS): program is divided into small parts called objects.
+-> follows bottom to top approach.
+-> data hiding is possible and is more secure.
+-> Adding data is easier. Ex: C++, Java,Python etc.

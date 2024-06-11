@@ -1,0 +1,8 @@
+OBJECTS: Anything that has a state and property is called an object.
+-> They store the data in form of variables.
+-> They operate the data using methods/functions.
+-> Object is a real world entity and is an instance of class.
+
+CLASS: Class is a group of objects that possess common properties.
+-> It is a blueprint from which objects are created.
+-> It can contain: Field, methods, constructors, nested class and interface.

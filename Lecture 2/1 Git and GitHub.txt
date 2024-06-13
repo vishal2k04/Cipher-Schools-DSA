@@ -1,0 +1,31 @@
+GIT: Git is an open-source distributed version control system.
+-> It is designed to handle minor to major projects with high speed and efficiency.
+-> The version control allows us to track and work together with our team members at the same workspace.
+-> Git allows the creation of multiple branches without affecting each other. We can perform tasks like creation, deletion, 
+and merging on branches.
+
+STAGING AREA: An intermediate area where commits can be formatted and reviewed before completion. 
+-> When you make a commit, Git takes changes that are in the staging area and make them as a new commit.
+
+GitHub: GitHub is a Git repository hosting service. 
+-> It offers both distributed version control and source code management (SCM) functionality of Git.
+-> It also facilitates with some collaboration features such as bug tracking, feature requests, task management for every project.
+
+Commands:
+-> git init
+This will create a .git folder at your project root and will allow you to start using Git in that repository.
+
+Add the files in your new local repository. This stages them for the first commit.
+-> git add .
+
+Commit the files that you've staged in your local repository.
+-> git commit -m "First commit"
+
+-> git remote add origin <Repository_Location>
+You can call origin whatever you like, really, but origin is the standard name for Git remote repositories.
+
+-> git remote -v
+Verifies the new remote URL
+
+-> git push origin main
+You can now push your changes.
